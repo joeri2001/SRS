@@ -49,6 +49,7 @@ public class DBOperations {
             }
       } catch (SQLException e) {
          System.out.println("SQLException on doesTableExist method.");
+         System.exit(0);
       }
       return doesExist;
   }

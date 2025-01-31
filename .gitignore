@@ -1,0 +1,7 @@
+// DO NOT IGNORE .vscode SETTINGS, THESE ARE NEEDED TO RUN THE PROJECT.
+// Ignore db file.
+database.db
+
+// Ignore the bin directory so no compiled code gets pushed.
+bin/*
+
